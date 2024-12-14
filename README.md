@@ -3,6 +3,9 @@
 ## Overview
 This project implements a neural network from scratch using Python, demonstrating various layers, activation functions, and optimizers. It is designed to handle tasks such as image recognition and classification through a custom-built architecture.
 
+## Output
+<img src="https://imgur.com/JolSSpa.png" alt="NNFS Screenshot 1">
+
 ## Features
 - **Custom Neural Network Layers**: Includes fully connected layers with forward and backward propagation.
 - **Activation Functions**: Implements ReLU, Softmax, and Sigmoid functions for non-linear transformations.
